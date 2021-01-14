@@ -39,5 +39,5 @@ class MyApp extends StatelessWidget {
  *
  * I think 'model' package is self explanatory, has all serializable classes used for the API
  *
- * 'widgets' package coled some widgets I used on the app.
+ * 'widgets' package collect some widgets I used on the app.
  */
