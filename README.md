@@ -2,7 +2,7 @@
 
 A new Flutter project about Anime series, PAC5 exercise 3.
 
-It there is any problem here is the link to github project
+If there is any problem here is the link to github project
 - [Link to Github](https://github.com/mromerobos/anime_project) 
 
 ## Relevant information
