@@ -29,8 +29,8 @@ The problem is that has strict requirements to use:
 ### Icons and Image source:
 
 Some of the icons and images I used are from this websites.
-- [Source 1 of icons/images](https://icons8.com/)
-- [Source 2 of icons/images](http://www.freepik.com/)
+- [icons8](https://icons8.com/)
+- [freepik](http://www.freepik.com/)
 
 ### Serialization of objects
 
